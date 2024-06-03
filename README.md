@@ -17,4 +17,4 @@
 "Text inainte de link" [linkul catre fisier](https://github.com/tuguiflorin/Curs-Testare-Manuala/blob/main/SFT-21.pdf)
 
 
-![Daily report](link)
+![Daily report](https://github.com/tuguiflorin/Curs-Testare-Manuala/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
