@@ -18,3 +18,11 @@
 
 
 ![Daily report](https://github.com/tuguiflorin/Curs-Testare-Manuala/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
+
+### Functionalities in scope
+
+For this version of the application the functionalities in the scope of testing are: 
++ All the features of Admin module for the Web application which were defined in OrangeHRM business requirements: User Management, Job, Organization, Qualifications, Nationalities, Configuration
++ For the testing process we will use: functional testing, positive testing, negative testing, regression testing and retesting.
++ The testing process will be focused on the following browsers:
+Chrome  and Mozilla latest versions.
