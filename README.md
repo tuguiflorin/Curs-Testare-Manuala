@@ -14,4 +14,4 @@
 4. Forth line
 
 
-"Text inainte de link" [Text pt link](linkul catre fisier )
+"Text inainte de link" [linkul catre fisier](https://github.com/tuguiflorin/Curs-Testare-Manuala/blob/main/SFT-21.pdf)
