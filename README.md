@@ -14,7 +14,7 @@
 4. Forth line
 
 
-"Verify if we can create a new Twitter account" [linkul catre fisier](https://github.com/tuguiflorin/Curs-Testare-Manuala/blob/main/SFT-21.pdf)
+"Verify if we can create a new Twitter account" [linkul catre fisier](https://github.com/tuguiflorin/Curs-Testare-Manuala/blob/main/6451f72bb19c7f758053aeba_1.png)
 
 
 ![Daily report](https://github.com/tuguiflorin/Curs-Testare-Manuala/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
