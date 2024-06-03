@@ -22,7 +22,7 @@
 ### Functionalities in scope
 
 For this version of the application the functionalities in the scope of testing are: 
-+ All the features of Admin module for the Web application which were defined in OrangeHRM business requirements: User Management, Job, Organization, Qualifications, Nationalities, Configuration
++ All the features of Admin module for the Web application which were defined in OrangeHRM business requirements: User Management, Job, **Organization, Qualifications, Nationalities, Configuration**
 + For the testing process we will use: functional testing, positive testing, negative testing, regression testing and retesting.
 + The testing process will be focused on the following browsers:
 Chrome  and Mozilla latest versions.
