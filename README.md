@@ -15,3 +15,6 @@
 
 
 "Text inainte de link" [linkul catre fisier](https://github.com/tuguiflorin/Curs-Testare-Manuala/blob/main/SFT-21.pdf)
+
+
+![Daily report](link)
