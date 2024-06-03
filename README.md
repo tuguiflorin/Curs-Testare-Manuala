@@ -14,4 +14,4 @@
 4. Forth line
 
 
-Link catre fisier [Git repo screenshot](link)
+Link catre fisier [Git repo screenshot]([link](https://github.com/tuguiflorin/Curs-Testare-Manuala/blob/main/README.md)
